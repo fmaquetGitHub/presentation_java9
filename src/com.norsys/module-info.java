@@ -1,4 +1,3 @@
 module com.norsys{
-   // Inclut par défaut
-   requires java.base;
+   requires org.common;
 }
